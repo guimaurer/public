@@ -1,0 +1,76 @@
+body {
+    font-family: "Raleway", sans-serif;
+    color: #444444;
+    @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #469fdf;
+    text-decoration: none;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-family: "Raleway", sans-serif;
+  }
+
+ 
+
+  .nav-pagbrasi{
+    background-color: #fff;
+
+  }
+  .nav-pagbrasil a{
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+  }
+
+  .pagbrasil_footer a{
+    color: #000;
+  }
+
+  .carousel-caption h5{
+    font-size: 48px;
+    text-align: left;
+    font-weight: 600;
+    max-width: 18ch;
+  }
+
+  .carousel-caption p{
+    font-size: 16px;
+    text-align: left;
+    font-weight: 400;
+    max-width: 50ch;
+  }
+
+  .colorbb{
+    color: #000;
+  }
+  
+  .pagbrasilpost{
+    gap: 15px;
+    padding-top: 15px;
+  }
+.post-container{
+  padding-top: 30px;
+  padding-bottom: 60px;
+} 
+.hero-name{
+  margin-bottom: 50px;
+}
+
+
+.logged-in .nav-pagbrasil {
+  margin-top: 30px;
+}
